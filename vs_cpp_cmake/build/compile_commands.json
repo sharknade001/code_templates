@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/MyExecutable.dir/hello_world.cpp.o -c /Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake/hello_world.cpp",
+  "file": "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake/hello_world.cpp"
+}
+]

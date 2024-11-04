@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "vs_cpp_cmake_in_mac",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "vs_cpp_cmake_in_mac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vs_cpp_cmake_in_mac-Debug-5a03ddb9bc46dcd67477.json",
+					"name" : "vs_cpp_cmake_in_mac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/build",
+		"source" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

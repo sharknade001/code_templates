@@ -1,0 +1,3 @@
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake/build/CMakeFiles/MyExecutable.dir
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake/build/CMakeFiles/edit_cache.dir
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake/build/CMakeFiles/rebuild_cache.dir

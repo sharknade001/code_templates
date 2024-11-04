@@ -1,11 +1,33 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
+    //   {
+    //     "name": "Debug",
+    //     "type": "cppdbg",
+    //     "request": "launch",
+    //     "program": "${fileDirname}/${fileBasenameNoExtension}",
+    //     "args": [],
+    //     "stopAtEntry": false,
+    //     "cwd": "${workspaceFolder}",
+    //     "environment": [],
+    //     "externalConsole": false,
+    //     "MIMode": "lldb",
+    //     "setupCommands": [
+    //       {
+    //         "description": "Enable pretty-printing for lldb",
+    //         "text": "settings set target.exec-search-paths ${workspaceFolder}",
+    //         "ignoreFailures": true
+    //       }
+    //     ],
+    //     "preLaunchTask": "build",
+    //     "miDebuggerPath": "/usr/bin/lldb"
+    //   },
       {
-        "name": "Debug",
+        "name": "DebugWithCmake",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${fileDirname}/${fileBasenameNoExtension}",
+        "program": "${workspaceFolder}/build/MyExecutable", // 修改为你的可执行文件路径
         "args": [],
         "stopAtEntry": false,
         "cwd": "${workspaceFolder}",
@@ -15,12 +37,10 @@
         "setupCommands": [
           {
             "description": "Enable pretty-printing for lldb",
-            "text": "settings set target.exec-search-paths ${workspaceFolder}",
-            "ignoreFailures": true
+            "text": "settings set target.exec-search-paths ${workspaceFolder}"
           }
         ],
-        "preLaunchTask": "build",
-        "miDebuggerPath": "/usr/bin/lldb"
+        "preLaunchTask": "CMake: build"
       }
     ]
   }
