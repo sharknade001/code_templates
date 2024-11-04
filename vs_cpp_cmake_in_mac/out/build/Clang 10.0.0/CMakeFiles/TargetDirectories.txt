@@ -1,0 +1,5 @@
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/CMakeFiles/vs_cpp_cmake_in_mac.dir
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/CMakeFiles/package.dir
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/CMakeFiles/package_source.dir
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/CMakeFiles/edit_cache.dir
+/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/CMakeFiles/rebuild_cache.dir
