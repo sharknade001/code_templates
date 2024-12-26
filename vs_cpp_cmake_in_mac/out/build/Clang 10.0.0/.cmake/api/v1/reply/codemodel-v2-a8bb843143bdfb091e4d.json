@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0",
-		"source" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make"
+		"build" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/build/Clang 10.0.0",
+		"source" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac"
 	},
 	"version" : 
 	{

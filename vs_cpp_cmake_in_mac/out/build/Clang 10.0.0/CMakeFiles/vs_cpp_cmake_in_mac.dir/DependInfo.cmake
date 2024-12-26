@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/main.cpp" "CMakeFiles/vs_cpp_cmake_in_mac.dir/main.cpp.o" "gcc" "CMakeFiles/vs_cpp_cmake_in_mac.dir/main.cpp.o.d"
+  "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/main.cpp" "CMakeFiles/vs_cpp_cmake_in_mac.dir/main.cpp.o" "gcc" "CMakeFiles/vs_cpp_cmake_in_mac.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

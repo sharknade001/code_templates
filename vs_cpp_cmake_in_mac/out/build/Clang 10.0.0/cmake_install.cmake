@@ -1,8 +1,8 @@
-# Install script for directory: /Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make
+# Install script for directory: /Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/install/Clang 10.0.0")
+  set(CMAKE_INSTALL_PREFIX "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/install/Clang 10.0.0")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/build/Clang 10.0.0/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

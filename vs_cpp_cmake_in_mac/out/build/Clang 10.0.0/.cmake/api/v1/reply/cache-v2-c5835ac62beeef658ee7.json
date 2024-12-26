@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0"
+			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/build/Clang 10.0.0"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "/usr/bin/clang++"
 		},
 		{
@@ -251,10 +251,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "/usr/bin/clang"
 		},
 		{
@@ -495,7 +495,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0/CMakeFiles/pkgRedirects"
+			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/build/Clang 10.0.0/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make"
+			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -583,7 +583,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/install/Clang 10.0.0"
+			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/install/Clang 10.0.0"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1479,7 +1479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make/out/build/Clang 10.0.0"
+			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac/out/build/Clang 10.0.0"
 		},
 		{
 			"name" : "vs_cpp_cmake_in_mac_IS_TOP_LEVEL",
@@ -1503,7 +1503,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_make"
+			"value" : "/Users/zhangfengcheng/sharknade/code_templates/vs_cpp_cmake_in_mac"
 		}
 	],
 	"kind" : "cache",
